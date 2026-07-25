@@ -236,7 +236,7 @@ Share your reminders with beautiful posters, links, or detailed text.
 
 <div align="center">
 
-<img src="screenshots/Poster.jpg" width="250"/>
+<img src="screenshots/SharePoster.jpg" width="250"/>
 <img src="screenshots/Share.jpg" width="250"/>
 
 </div>
