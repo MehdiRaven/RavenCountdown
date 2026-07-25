@@ -123,31 +123,69 @@ Explore RavenCountdown's modern interface and powerful reminder features.
 
 ---
 
-## ⏳ Reminder Experience
+## ⏳ Main Experience
 
-Create, customize, and manage your important moments with a simple and beautiful interface.
+The main dashboard and countdown experience designed with simplicity and clarity.
 
 <div align="center">
 
 <img src="screenshots/Home.jpg" width="250"/>
-<img src="screenshots/Reminder.jpg" width="250"/>
-<img src="screenshots/EditReminder.jpg" width="250"/>
+<img src="screenshots/Home2.jpg" width="250"/>
 
 </div>
 
 ---
 
-## 📅 Calendar & Scheduling
+## 📅 Calendar & Timeline
 
-Manage events with support for both Persian and Gregorian calendars.
+Manage important dates with calendar support and timeline organization.
 
 <div align="center">
 
 <img src="screenshots/Calendar.jpg" width="250"/>
-<img src="screenshots/DatePicker.jpg" width="250"/>
+<img src="screenshots/TimeLine.jpg" width="250"/>
 
 </div>
 
+---
+
+## 📊 Statistics & Insights
+
+Track your reminders and explore your activity through detailed statistics.
+
+<div align="center">
+
+<img src="screenshots/Stats.jpg" width="250"/>
+
+</div>
+
+---
+
+## 🎨 Settings & Customization
+
+Customize RavenCountdown with advanced settings and personalization options.
+
+<div align="center">
+
+<img src="screenshots/Setting.jpg" width="250"/>
+<img src="screenshots/Setting2.jpg" width="250"/>
+<img src="screenshots/Setting3.jpg" width="250"/>
+
+</div>
+
+---
+
+## 🔔 Alarm Experience
+
+A dedicated reminder interface designed to make sure you never miss important moments.
+
+<div align="center">
+
+<img src="screenshots/Alarm.jpg" width="250"/>
+
+</div>
+
+---
 ---
 
 ## 🎨 Customization & Themes
