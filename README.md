@@ -158,7 +158,7 @@ RavenCountdown allows users to share reminders through detailed information, cus
 <div align="center">
 
 <img src="screenshots/Share.jpg" width="250"/>
-<img src="screenshots/SharePoster.jpg" width="250"/>
+<img src="screenshots/SharePosters.jpg" width="250"/>
 
 </div>
 
