@@ -158,7 +158,7 @@ RavenCountdown allows users to share reminders through detailed information, cus
 <div align="center">
 
 <img src="screenshots/Share.jpg" width="250"/>
-<img src="screenshots/Share_Posters.jpg" width="250"/>
+<img src="screenshots/SharePoster.jpg" width="250"/>
 
 </div>
 
@@ -193,59 +193,6 @@ Personalize RavenCountdown with advanced settings, themes, and customization opt
 ## 🔔 Alarm Experience
 
 A dedicated reminder interface designed to make sure you never miss important moments.
-
-<div align="center">
-
-<img src="screenshots/Alarm.jpg" width="250"/>
-
-</div>
-
----
-
----
-
-## 🔔 Alarm Experience
-
-A dedicated reminder interface designed to make sure you never miss important moments.
-
-<div align="center">
-
-<img src="screenshots/Alarm.jpg" width="250"/>
-
-</div>
-
----
----
-
-## 🎨 Customization & Themes
-
-Personalize RavenCountdown with themes, colors, and advanced settings.
-
-<div align="center">
-
-<img src="screenshots/Themes.jpg" width="250"/>
-<img src="screenshots/Settings.jpg" width="250"/>
-
-</div>
-
----
-
-## 🖼️ Smart Sharing
-
-Share your reminders with beautiful posters, links, or detailed text.
-
-<div align="center">
-
-<img src="screenshots/SharePoster.jpg" width="250"/>
-<img src="screenshots/Share.jpg" width="250"/>
-
-</div>
-
----
-
-## 🔔 Reminder Alarm Experience
-
-Experience reminders with a dedicated notification interface and lock screen style alarm.
 
 <div align="center">
 
